@@ -1,0 +1,245 @@
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\ApplicationInsights.config
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\coderush.dll.config
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\coderush.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\coderush.pdb
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\csc.exe
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\csc.exe.config
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\csc.rsp
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\csi.exe
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\csi.exe.config
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\csi.rsp
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.AppContext.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.Console.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.IO.Compression.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.IO.Pipes.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.Security.Claims.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.Threading.Thread.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.ValueTuple.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\vbc.exe
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\vbc.exe.config
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\vbc.rsp
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\VBCSCompiler.exe
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Antlr3.Runtime.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\EntityFramework.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\EntityFramework.SqlServer.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.AI.Web.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.ApplicationInsights.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Newtonsoft.Json.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Owin.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\System.Web.Helpers.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\System.Web.Mvc.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\System.Web.Optimization.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\System.Web.Razor.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\System.Web.WebPages.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\System.Web.WebPages.Razor.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\WebGrease.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\System.Web.Helpers.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\System.Web.Mvc.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\System.Web.Optimization.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\System.Web.Razor.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\System.Web.WebPages.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\System.Web.WebPages.Razor.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Antlr3.Runtime.pdb
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Newtonsoft.Json.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\EntityFramework.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\EntityFramework.SqlServer.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.ApplicationInsights.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\bin\Microsoft.AI.Web.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\obj\Debug\coderush.csprojResolveAssemblyReference.cache
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\obj\Debug\coderush.Migrations.initialdb.resources
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\obj\Debug\coderush.Migrations.todotable.resources
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\obj\Debug\coderush.csproj.GenerateResource.cache
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\obj\Debug\coderush.csproj.CoreCompileInputs.cache
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\obj\Debug\coderush.csproj.CopyComplete
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\obj\Debug\coderush.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Starter Template - AdminLTE\coderush\coderush\obj\Debug\coderush.pdb
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\ApplicationInsights.config
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\coderush.dll.config
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\coderush.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\coderush.pdb
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\csc.exe
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\csc.exe.config
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\csc.rsp
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\csi.exe
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\csi.exe.config
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\csi.rsp
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.AppContext.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.Console.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.IO.Compression.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.IO.Pipes.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.Security.Claims.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.Threading.Thread.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.ValueTuple.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\vbc.exe
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\vbc.exe.config
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\vbc.rsp
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\VBCSCompiler.exe
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Antlr3.Runtime.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\EntityFramework.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\EntityFramework.SqlServer.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.AI.Web.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.ApplicationInsights.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Newtonsoft.Json.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Owin.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\System.Web.Helpers.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\System.Web.Mvc.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\System.Web.Optimization.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\System.Web.Razor.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\System.Web.WebPages.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\System.Web.WebPages.Razor.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\WebGrease.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\System.Web.Helpers.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\System.Web.Mvc.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\System.Web.Optimization.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\System.Web.Razor.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\System.Web.WebPages.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\System.Web.WebPages.Razor.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Antlr3.Runtime.pdb
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Newtonsoft.Json.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\EntityFramework.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\EntityFramework.SqlServer.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.ApplicationInsights.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\bin\Microsoft.AI.Web.xml
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\obj\Debug\coderush.csprojResolveAssemblyReference.cache
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\obj\Debug\coderush.Migrations.initialdb.resources
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\obj\Debug\coderush.csproj.GenerateResource.cache
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\obj\Debug\coderush.csproj.CoreCompileInputs.cache
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\obj\Debug\coderush.csproj.CopyComplete
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\obj\Debug\coderush.dll
+C:\Users\aegis\source\repos\_jual_coderush\ASP.NET MVC 5 - Template - AdminLTE\coderush\coderush\obj\Debug\coderush.pdb

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1c055e5b441846d2831502069c5a8d6c" Name="Diagram1">
+        <EntityTypeShape EntityType="RestaurantModel.BAN" Width="1.5" PointX="0.75" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RestaurantModel.CHI_TIET_HOA_DON" Width="1.5" PointX="7.5" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RestaurantModel.DAU_BEP" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RestaurantModel.DON_DAT" Width="1.5" PointX="3" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RestaurantModel.HOA_DON" Width="1.5" PointX="5.25" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RestaurantModel.KHACH_HANG" Width="1.5" PointX="0.75" PointY="10.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RestaurantModel.MON" Width="1.5" PointX="5.25" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RestaurantModel.NHAN_VIEN" Width="1.5" PointX="3" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RestaurantModel.QUYEN" Width="1.5" PointX="0.75" PointY="3.125" IsExpanded="true" />
+        <AssociationConnector Association="RestaurantModel.FK__DON_DAT__SOBAN__49C3F6B7" ManuallyRouted="false" />
+        <AssociationConnector Association="RestaurantModel.FK__CHI_TIET___MAHOA__5165187F" ManuallyRouted="false" />
+        <AssociationConnector Association="RestaurantModel.FK__CHI_TIET___MAMON__52593CB8" ManuallyRouted="false" />
+        <AssociationConnector Association="RestaurantModel.FK__DAU_BEP__MAPHANQ__3F466844" ManuallyRouted="false" />
+        <AssociationConnector Association="RestaurantModel.FK__MON__MADB__4222D4EF" ManuallyRouted="false" />
+        <AssociationConnector Association="RestaurantModel.FK__DON_DAT__MAKH__48CFD27E" ManuallyRouted="false" />
+        <AssociationConnector Association="RestaurantModel.FK__HOA_DON__MADONDA__4CA06362" ManuallyRouted="false" />
+        <AssociationConnector Association="RestaurantModel.FK__HOA_DON__MANV__4E88ABD4" ManuallyRouted="false" />
+        <AssociationConnector Association="RestaurantModel.FK__NHAN_VIEN__MAPHA__45F365D3" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
